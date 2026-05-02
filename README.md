@@ -46,9 +46,6 @@ JWT_SECRET=your-secret-key
 4. Create custom filters and rules
 5. Track email analytics and response times
 
-## Live Demo
-
-Check out the live demo: [mail-magic-iota.vercel.app](https://mail-magic-iota.vercel.app)
 
 ## Contributing
 
